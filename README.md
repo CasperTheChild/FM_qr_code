@@ -26,7 +26,7 @@ This is a solution to the [QR Code Component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Live Site URL: [Live Site URL](https://casperthechild.github.io/FM_qr_code/)
 
 ## My Process
 
